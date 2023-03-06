@@ -8,7 +8,9 @@ Client: HTML,CSS, Vanilla JavaScript
 
 Tools Used
 ---
-Drawkit
-icon8
-Animate CSS
-Formspree
+<ul>
+ <li>Drawkit</li>
+ <li>icon8</li>
+ <li>Animate CSS</li>
+ <li>Formspree</li>
+</ul>
